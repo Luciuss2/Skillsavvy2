@@ -1,0 +1,63 @@
+
+body {
+    padding: 10px 50px;
+    background-color: rgb(192, 192, 192);
+}
+
+.formdesign {
+    font-size: 20px;
+
+}
+
+.formdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.formerror {
+    color: red;
+}
+
+.but {
+    border-radius: 9px;
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    margin: 22px 20px;
+}
+
+.formdesign input[type="date"] {
+    width: 52%; /* Adjust width similar to input fields */
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.formdesign select {
+    width: 52%; /* Adjust width similar to input fields */
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: white; /* Ensure dropdown is visible */
+}
+
+.formdesign textarea {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+    resize: vertical; /* Allows the user to resize the textarea vertically */
+}
+
+
+
